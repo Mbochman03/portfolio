@@ -79,3 +79,12 @@ img {
 .paragraph-padding {
   padding-bottom: 30px;
 }
+.fas fa-angle-double-left {
+  display: inline-block;
+}
+.fas fa-angle-double-down {
+  display: inline-block;
+}
+.fas fa-angle-double-right {
+  display: inline-block;
+}
