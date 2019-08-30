@@ -1,6 +1,9 @@
 
+h1 {
+  font-family: 'Lato', verdana, sans-serif;
+}
 body {
-  font-family: verdana;
+  font-family: 'Source-Sans-Pro', verdana, sans-serif;
 }
 nav {
   font-family: verdana;
@@ -43,7 +46,6 @@ a:hover {
 }
 p {
   color:#464545;
-  font-weight: 100;
 }
 h1 {
   color: #000;
@@ -53,6 +55,7 @@ h1 {
 }
 h2 {
   color: #000;
+  font-size: 1.25rem;
 }
 .header-name {
   text-transform: uppercase;
@@ -62,6 +65,7 @@ h3 {
   border-top: 1px dotted #a8a8a9;
   padding-top: 20px;
   font-weight: 400;
+  font-size: 1.125rem;
 }
 img {
   padding-bottom: 20px;
