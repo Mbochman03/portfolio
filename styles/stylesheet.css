@@ -46,6 +46,7 @@ a:hover {
 }
 p {
   color:#464545;
+  padding-bottom: 30px;
 }
 h1 {
   color: #000;
@@ -56,6 +57,7 @@ h1 {
 h2 {
   color: #000;
   font-size: 1.25rem;
+  display: inline-block;
 }
 .header-name {
   text-transform: uppercase;
@@ -75,5 +77,5 @@ img {
   padding: 20px 30px 10px 30px;
 }
 .paragraph-padding {
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
