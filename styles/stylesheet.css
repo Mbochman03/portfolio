@@ -54,11 +54,6 @@ h1 {
   font-weight: 400;
   text-transform: uppercase;
 }
-h2 {
-  color: #000;
-  font-size: 1.25rem;
-  display: inline-block;
-}
 .header-name {
   text-transform: uppercase;
 }
@@ -86,5 +81,10 @@ img {
   display: inline-block;
 }
 .fas fa-angle-double-right {
+  display: inline-block;
+}
+h2 {
+  color: #000;
+  font-size: 1.25rem;
   display: inline-block;
 }
